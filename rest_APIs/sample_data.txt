@@ -1,0 +1,42 @@
+[{
+     title: "get milk",
+     creator: "Ankit",
+     createdAT: "2.30 PM",
+     status: "Pending",
+     Alarm: "3:00 PM"
+},
+{
+     title: "get Vegitable",
+     creator: "Ankit",
+     createdAT: "3.30 PM",
+     status: "Pending",
+     Alarm: "4:00 PM"
+},
+{
+     title: "Clean up Code",
+     creator: "Ankit",
+     createdAT: "4.30 PM",
+     status: "Pending",
+     Alarm: "5:00 PM"
+},
+{
+     title: "Do some exercise",
+     creator: "Ankit",
+     createdAT: "5.30 PM",
+     status: "Pending",
+     Alarm: "6:00 PM"
+},
+{
+     title: "Brush teeth before bed",
+     creator: "Ankit",
+     createdAT: "10.30 PM",
+     status: "Pending",
+     Alarm: "11:00 PM"
+},
+{
+     title: "Clash royale challenge",
+     creator: "Sugga",
+     createdAT: "10.30 PM",
+     status: "Pending",
+     Alarm: "11:00 PM"
+}]
